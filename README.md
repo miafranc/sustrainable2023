@@ -10,7 +10,6 @@
 ### Using Conda/Miniconda (https://docs.conda.io/en/latest/miniconda.html):
 - Download [environment.yml](https://github.com/miafranc/sustrainable2023/blob/main/environment.yml)
 `conda env create -f environment.yml`
-- Modify `prefix` (at the bottom of the file) to point to Miniconda's `envs` subdirectory.
 - Activate environment:
 `conda activate sustrainable2023`
 
