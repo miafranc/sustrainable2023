@@ -12,7 +12,7 @@
 `conda env create -f environment.yml`
 - Modify `prefix` (at the bottom of the file) to point to Miniconda's `envs` subdirectory.
 - Activate environment:
-`conda activate sustrainable`
+`conda activate sustrainable2023`
 
 ### Using Docker ([https://hub.docker.com/repository/docker/zalanbodo/sustrainable2023/general]):
 - Install docker
