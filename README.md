@@ -14,6 +14,7 @@ Although it is possible to use Windows as well, we strongly encourage the partic
 ### Using Conda/Miniconda (https://docs.conda.io/en/latest/miniconda.html):
 - Install Conda/Miniconda
 - Download [environment.yml](https://github.com/miafranc/sustrainable2023/blob/main/environment.yml)
+- Create environment:
 `conda env create -f environment.yml`
 - Activate environment:
 `conda activate sustrainable2023`
