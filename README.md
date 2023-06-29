@@ -1,7 +1,7 @@
 # SusTrainable Summer School 2023
 ## Code optimization for sustainable data mining / Code optimization with vectorization in data mining and machine learning
 
-by Zalán Bodó, Lehel Csató, Anikó Kopacz
+(by Zalán Bodó, Lehel Csató, Anikó Kopacz)
 
 Although it is possible to use Windows as well, we strongly encourage the participants to use Linux during the lab session.
 
