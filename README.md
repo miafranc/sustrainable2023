@@ -15,7 +15,7 @@
 
 ### Using Docker (https://hub.docker.com/repository/docker/zalanbodo/sustrainable2023/general):
 - Install docker
-- Pull image:
+- Pull image (~ 1 GB):
 `docker pull zalanbodo/sustrainable2023`
 - Run image (by creating a container from it):
 `docker run -it -v "[path to local files]:/home" sustrainable2023 /bin/sh`
