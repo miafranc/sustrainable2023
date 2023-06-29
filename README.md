@@ -1,6 +1,8 @@
 # SusTrainable Summer School 2023
 ## Code optimization for sustainable data mining / Code optimization with vectorization in data mining and machine learning
 
+by Zalán Bodó, Lehel Csató, Anikó Kopacz
+
 ### Manual installation of Python (>= 3.8.16) and the following packages (with pip):
 - numpy
 - pandas
