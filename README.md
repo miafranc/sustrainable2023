@@ -3,6 +3,8 @@
 
 by Zalán Bodó, Lehel Csató, Anikó Kopacz
 
+Although it is possible to use Windows as well, we strongly encourage the participants to use Linux during the lab session.
+
 ### Manual installation of Python (>= 3.8.16) and the following packages (with pip):
 - numpy
 - pandas
@@ -10,6 +12,7 @@ by Zalán Bodó, Lehel Csató, Anikó Kopacz
 - nltk
 
 ### Using Conda/Miniconda (https://docs.conda.io/en/latest/miniconda.html):
+- Install Conda/Miniconda
 - Download [environment.yml](https://github.com/miafranc/sustrainable2023/blob/main/environment.yml)
 `conda env create -f environment.yml`
 - Activate environment:
