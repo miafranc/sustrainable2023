@@ -13,7 +13,7 @@
 - Activate environment:
 `conda activate sustrainable2023`
 
-### Using Docker (https://hub.docker.com/repository/docker/zalanbodo/sustrainable2023/general):
+### Using Docker (https://www.docker.com/):
 - Install docker
 - Pull image (~ 1 GB):
 `docker pull zalanbodo/sustrainable2023`
