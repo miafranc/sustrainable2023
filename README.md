@@ -7,14 +7,14 @@
 - scikit-learn
 - nltk
 
-### Using Conda/Miniconda ([https://docs.conda.io/en/latest/miniconda.html]):
+### Using Conda/Miniconda (https://docs.conda.io/en/latest/miniconda.html):
 - Download [environment.yml](https://github.com/miafranc/sustrainable2023/blob/main/environment.yml)
 `conda env create -f environment.yml`
 - Modify `prefix` (at the bottom of the file) to point to Miniconda's `envs` subdirectory.
 - Activate environment:
 `conda activate sustrainable2023`
 
-### Using Docker ([https://hub.docker.com/repository/docker/zalanbodo/sustrainable2023/general]):
+### Using Docker (https://hub.docker.com/repository/docker/zalanbodo/sustrainable2023/general):
 - Install docker
 - Pull image:
 `docker pull zalanbodo/sustrainable2023`
